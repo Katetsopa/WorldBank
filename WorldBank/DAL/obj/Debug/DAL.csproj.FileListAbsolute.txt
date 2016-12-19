@@ -1,0 +1,6 @@
+C:\Users\Kate\Desktop\WorldBank\WorldBank\DAL\bin\Debug\DAL.dll
+C:\Users\Kate\Desktop\WorldBank\WorldBank\DAL\bin\Debug\DAL.pdb
+C:\Users\Kate\Desktop\WorldBank\WorldBank\DAL\obj\Debug\DAL.dll
+C:\Users\Kate\Desktop\WorldBank\WorldBank\DAL\obj\Debug\DAL.pdb
+C:\Users\Kate\Desktop\WorldBank\WorldBank\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kate\Desktop\WorldBank\WorldBank\DAL\bin\Debug\Newtonsoft.Json.xml
